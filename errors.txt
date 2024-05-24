@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 54: expected statement.
-    width fade
-              ^
+File "game/script.rpy", line 76: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        dec "-Добрый день, уважаемые абитуриенты, меня зовут Тищенко Евгений Николаевич и я - декан факультета КТиИБ. Сегодня я расскажу вам о нашем факультете. У нас есть много интересного, что вам обязательно понравится.
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Wed May 22 04:31:25 2024
+Fri May 24 04:42:13 2024
